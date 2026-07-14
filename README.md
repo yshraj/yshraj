@@ -3,7 +3,7 @@
 <p align="center">Senior AI Engineer at WebileApps (KFintech) · Building AI agents, RAG systems &amp; automation</p>
 
 <p align="center">
-  <a href="https://yashdarjiportfolio.netlify.app/"><img src="https://img.shields.io/badge/Website-yashdarjiportfolio.netlify.app-2b3137?style=flat-square" alt="Website"></a>
+  <a href="https://yash-builds-ai.netlify.app/"><img src="https://img.shields.io/badge/Website-yash--builds--ai.netlify.app-2b3137?style=flat-square" alt="Website"></a>
   <a href="https://www.linkedin.com/in/yash-darji/"><img src="https://img.shields.io/badge/LinkedIn-yash--darji-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:yash.darji.coder@gmail.com"><img src="https://img.shields.io/badge/Email-yash.darji.coder%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
