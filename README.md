@@ -14,7 +14,7 @@ I'm a backend engineer specializing in **AI agents**, **RAG systems**, and **sca
 
 | Project | Description |
 | ------- | ----------- |
-| [AI-Live-Chat-Agent](https://github.com/yshraj/AI-Live-Chat-Agent) | AI live-chat support agent — FastAPI, React, Gemini LLM, vector-based FAQ retrieval |
+| [ai-product-image-detector](https://github.com/yshraj/ai-product-image-detector) | Spot AI-generated and fake product photos — before you buy. |
 | [proactive-financial-agent](https://github.com/yshraj/proactive-financial-agent) | Proactive assistant for financial advisers with hybrid RAG + structured data |
 | [smartstock-scout](https://github.com/yshraj/smartstock-scout) | AI stock analyzer — scrapes Yahoo Finance and runs sentiment analysis |
 | [agent-observability](https://github.com/yshraj/agent-observability) | Monitoring for AI agents — detects loops, drift, and failures with a live UI |
