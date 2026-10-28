@@ -18,6 +18,7 @@ I'm a backend engineer specializing in **AI agents**, **RAG systems**, and **sca
 Fair-code workflow automation. Merged community PR:
 
 - Microsoft Outlook Trigger now returns the **latest** message on manual "Fetch Test Event" instead of an arbitrary older one — [PR #34486](https://github.com/n8n-io/n8n/pull/34486) · fixes [#33547](https://github.com/n8n-io/n8n/issues/33547)
+- Send Email Node now sends to **every recipient** when a recipient field is an array instead of treating it as JSON text — [PR #36467](https://github.com/n8n-io/n8n/pull/36467) · fixes [#35839](https://github.com/n8n-io/n8n/issues/35839)
 
 ### [ai-job-search](https://github.com/MadsLorentzen/ai-job-search) · 41k+ ★
 
@@ -31,7 +32,7 @@ AI job application framework built on Claude Code. Three merged PRs on the scrap
 
 | Project | Description |
 | ------- | ----------- |
-| [ai-product-image-detector](https://github.com/yshraj/ai-product-image-detector) | Spot AI-generated and fake product photos — before you buy. |
+| [RefineIQ](https://refineiq.obliviox.in/) | Chrome extension that removes AI slop from your writing — CEO Mode rewrites drafts to sound human. |
 | [proactive-financial-agent](https://github.com/yshraj/proactive-financial-agent) | Proactive assistant for financial advisers with hybrid RAG + structured data |
 | [smartstock-scout](https://github.com/yshraj/smartstock-scout) | AI stock analyzer — scrapes Yahoo Finance and runs sentiment analysis |
 | [agent-observability](https://github.com/yshraj/agent-observability) | Monitoring for AI agents — detects loops, drift, and failures with a live UI |
